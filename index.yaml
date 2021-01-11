@@ -3,16 +3,16 @@ entries:
   renter:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-09T06:46:27.070754299Z"
+    created: "2021-01-11T04:51:22.917921056Z"
     dependencies:
     - name: raas-eap
       repository: https://raw.githubusercontent.com/suba28s/helm-test/master
       version: 0.1.0
     description: A Helm chart for Kubernetes
-    digest: cb6426441095b666bcf1fb77cced3332c644ef61ee9128a6128019c6766f27c6
+    digest: 47a264561f706d79be6e8201b30fdf3c429e62ff55fbc791c658d690f912efdb
     name: renter
     type: application
     urls:
     - renter-0.1.0.tgz
     version: 0.1.0
-generated: "2021-01-09T06:46:27.068803038Z"
+generated: "2021-01-11T04:51:22.915586518Z"
